@@ -1,16 +1,29 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**Aliagaaaaaa/Aliagaaaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🚀
+Hey there! I'm Martín Aliaga, a passionate developer with a love for coding and creating innovative solutions.
 
-Here are some ideas to get you started:
+## My Skills 🛠️
+- Java
+- Javascript
+- Python
+- MongoDB
+- SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects 🚧
+### Faceit Pro League Bot
+A Javascript/NodeJS bot designed to track everything in Faceit Pro League.
+
+Repository: [Faceit Pro League Bot](https://github.com/Aliagaaaaaa/fpl-bot)
+
+### Ultra Hardcore Minecraft Plugin
+Developed a custom Minecraft plugin for Ultra Hardcore (UHC) using Spigot library.
+
+Repository: [UHC Plugin](https://github.com/Aliagaaaaaa/UHC)
+
+## Connect with Me 🌐
+- LinkedIn: [martín-aliaga](https://www.linkedin.com/in/mart%C3%ADn-aliaga-777166224/)
+- Twitter: [@aliag4_](https://twitter.com/aliag4_) 🐦
+- Discord: Aliagaaaaaa 🎧
+
+Feel free to reach out and connect! Let's talk tech and coding. 💬
