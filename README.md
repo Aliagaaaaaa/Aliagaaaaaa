@@ -12,7 +12,7 @@ Hey there! I'm Martín Aliaga, a passionate developer with a love for coding and
 
 ## Projects 🚧
 ### Faceit Pro League Bot
-A Javascript/NodeJS bot designed to track everything in Faceit Pro League.
+A Javascript/NodeJS bot designed to track somethings in Faceit Pro League.
 
 Repository: [Faceit Pro League Bot](https://github.com/Aliagaaaaaa/fpl-bot)
 
