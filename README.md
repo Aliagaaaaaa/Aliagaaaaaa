@@ -26,8 +26,6 @@ Un plugin de sistema económico para servidores de Minecraft, desarrollado en **
 **Características principales:**
 - Sistema de economía completamente funcional.
 - Persistencia de datos utilizando **SQL (PostgreSQL)**.
-- Optimización para servidores de Minecraft.
-
 ---
 
 ## 🛠️ Tecnologías y Herramientas
